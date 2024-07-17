@@ -1,0 +1,81 @@
+{
+    "posts": [
+      {
+        "id": 0,
+        "postProfile":"Java Developer",
+        "postDesc":"should be good",
+        "reqExperience":5,
+        "postTechStack":[
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      },
+      {
+        "id": 1,
+        "postProfile": "Java Developer",
+        "postDesc": "should be good",
+        "reqExperience": 5,
+        "postTechStack": [
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      },
+      {
+        "id": 2,
+        "postProfile": "Ts Developer",
+        "postDesc": "should be good",
+        "reqExperience": 5,
+        "postTechStack": [
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      },
+      {
+        "id": 3,
+        "postProfile": "Js Developer",
+        "postDesc": "should be good",
+        "reqExperience": 3,
+        "postTechStack": [
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      },
+      {
+        "id": 4,
+        "postProfile": "SpringBoot Developer",
+        "postDesc": "should be good",
+        "reqExperience": 4,
+        "postTechStack": [
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      },
+      {
+        "id": 5,
+        "postProfile": "PL/SQL Developer",
+        "postDesc": "should be good",
+        "reqExperience": 2,
+        "postTechStack": [
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      },
+      {
+        "id": 6,
+        "postProfile": "React Developerr",
+        "postDesc": "should be good",
+        "reqExperience": 2,
+        "postTechStack": [
+          "Java",
+          "Js",
+          "Ts"
+        ]
+      }
+    ]
+  }
